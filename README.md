@@ -1,5 +1,7 @@
 # netns
 
+Medium: https://itnext.io/create-your-own-network-namespace-90aaebc745d
+
 This project explores the [Linux network namespace](https://en.wikipedia.org/wiki/Linux_namespaces#Network_(net)), using tools from the [`iproute2`](https://en.wikipedia.org/wiki/Iproute2) utility.
 
 In particular, it uses commands like:
